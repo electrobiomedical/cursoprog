@@ -1,5 +1,5 @@
 function greeting(){
-var name=prompt("que producto desea comprar?");
+var name=prompt("El dia de hoy tenemos papas, flores y agua, que producto desea comprar?");
 var productos=["papas","flores","agua"];
 var cos=[5000,50000,25000];
 var indix=productos.indexOf(name)
